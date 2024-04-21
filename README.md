@@ -1,3 +1,8 @@
 # ITs-Tinkoff-CTF-2024
-Райтап Tinkoff CTF 2024
-![изображение](https://github.com/Shoot/ITs-Tinkoff-CTF-2024/assets/11522779/24794e0c-326a-4454-a959-d6667ce516c3)
+Разбор задач с Tinkoff CTF 2024, которые показались интересными
+- Мисс Фрод (web)
+- Элементарно, Ватсон (crypto)
+- 25-й кадр (reverse)
+- Пятницамобиль (trick)
+- Репкозиторий (forensics)
+- Alt Капоне
